@@ -1,0 +1,145 @@
+.img-container{      
+    margin:13px;      
+    box-shadow: rgb(172, 168, 168) 1px 2px 8px 1px;      
+    min-height: 550px;   
+
+    max-width: 70%;      
+    background-position: center;      
+    background-repeat: no-repeat;      
+    margin-left: 15%;
+    align-content: center;   
+    border-radius: 10px;
+   
+}
+
+.input-container{      
+    margin:13px;      
+    box-shadow: rgb(164, 167, 165) 1px 2px 8px 1px;      
+    min-height: 50555px;   
+   
+    margin: 5%;
+    border-radius: 10px;
+
+     
+}
+
+
+.inputt{      
+
+    width: 80%;
+    margin-left: 10%;
+     
+}
+
+
+
+/* Next & previous buttons */
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: rgb(177, 174, 174);
+    font-weight: bold;
+    font-size: 30px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+
+
+  /* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+    background-color: rgba(138, 133, 133, 0.8);
+  }
+
+
+  .next {
+    right: 15.6%;
+    border-radius: 3px 0 0 3px;
+  }
+  
+.save{
+  margin-left: 43%;
+  font-size: 22px;
+
+
+ }
+
+ .logo{
+  margin-left: 35%;
+
+ }
+
+
+ .home_btn{
+margin-top: 0.6cm;
+margin-left: 20%;
+font: Helvetica ;
+font-size: 1.3rem;
+line-height: 1.2;
+
+}
+
+a { color: inherit; 
+  text-decoration: inherit; 
+} 
+
+
+
+.head_name{
+margin-bottom:7%;
+
+}
+
+span{font-size: 1.5em}
+
+
+
+.list_img
+{
+	margin-left: 10px;
+	float: left;
+  height: 1100px;
+  width: 380px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+  margin-bottom: 25px;
+
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+}
+
+
+#style-4::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(161, 157, 157, 0.3);
+	background-color: #F5F5F5;
+}
+
+#style-4::-webkit-scrollbar
+{
+	width: 7px;
+	background-color: #F5F5F5;
+}
+
+#style-4::-webkit-scrollbar-thumb
+{
+	background-color: #d3d0d0;
+}
+
+
+
+.lu{
+  background-color: #f7f7f7;
+  -webkit-box-shadow: inset 0 0 6px rgba(32, 30, 30, 0.3);
+
+}
+
+#yoo0
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(161, 157, 157, 0.3);
+	background-color: #ddd9d9;
+}
